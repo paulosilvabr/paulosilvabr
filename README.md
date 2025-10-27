@@ -1,21 +1,21 @@
 ### 👋 Olá! Eu sou o Paulo Silva
 
 Sou um estudante de Sistemas de Informação, apaixonado por tecnologia, inovação e desenvolvimento de software. 
-Meu foco principal é o desenvolvimento Back-end com Java e Spring Boot, mas também tenho experiência sólida em Front-end com TypeScript e JavaScript.
+Meu foco principal é o desenvolvimento Back-end com Java, mas também tenho experiência em Front-end com JavaScript, Tailwind CSS e HTML/CSS.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-silva-br/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-aqui@exemplo.com) ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ricardo-sousa-silva/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pauloricardosousasilva10@gmail.com)
+
+---
 
 ### 🚀 Minhas Ferramentas e Tecnologias
 
 **Back-end:**
 ![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 **Front-end:**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
