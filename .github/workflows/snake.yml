@@ -1,0 +1,37 @@
+name: Generate Snake Animation
+
+on:
+  # Roda automaticamente a cada 12 horas
+  schedule:
+    - cron: '0 */12 * * *'
+  
+  # Permite que você rode manualmente pela aba "Actions"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      # A Action precisa de permissão para escrever no seu repositório
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          # O seu nome de usuário do GitHub
+          github_user_name: paulosilvabr
+          
+          # O caminho onde a imagem será salva
+          svg_out_path: output/github-contribution-grid-snake.svg
+
+      - name: Commit and Push new SVG
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update snake contribution grid"
+          file_pattern: output/*.svg
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
