@@ -31,6 +31,6 @@ Sou Desenvolvedor Front-End e estudante em Sistema para Internet no Instituto Fe
 
 ### Estatísticas do Perfil
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=paulosilvabr&show_icons=true&theme=dracula)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=paulosilvabr&layout=compact&langs_count=7&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=paulosilvabr&show_icons=true&theme=dracula&v=2.0)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=paulosilvabr&layout=compact&langs_count=7&theme=dracula&v=2.0)
 ![Animação da Cobrinha de Contribuições](dist/github-contribution-grid-snake.svg)
