@@ -19,7 +19,7 @@ Sou Desenvolvedor Front-End e estudante em Sistema para Internet no Instituto Fe
 **Back-End:** \
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Data:** \
+**Dados:** \
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Ferramentas:** \
